@@ -1,2 +1,2 @@
 # BLOG
-Meu projeto de apresentação profissional. feito com HTML, CSS, JS Venha conferir !!!
+Meu projeto de apresentação de estudante de ADS, feito com HTML, CSS, JS Venha conferir !!!
